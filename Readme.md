@@ -1,4 +1,4 @@
-<h1>JavaScript Simple Projects With Source Code - Length Converter</h1>
+<h1>Length Converter</h1>
 <p>A length calculator is a tool that calculates the length, distance, or measurement of an object or line segment. It can be used to determine the size of a physical object, or the distance between two points in space. Length calculators are commonly used in fields such as engineering, physics, and mathematics, and they may be in the form of an online calculator, a software program, or a physical instrument such as a ruler or tape measure. Length calculators can be used to measure a variety of units, including inches, centimeters, feet, meters, and others.
 </p>
 
